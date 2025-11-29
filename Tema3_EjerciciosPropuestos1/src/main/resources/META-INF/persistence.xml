@@ -8,7 +8,7 @@
     <persistence-unit name="alumnosPU">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
-        <class>Ejercicio5.Alumno</class>
+        <class>EjerciciosPropuestos1.Ejercicio5.Alumno</class>
 
         <properties>
             <!-- Conexión -->

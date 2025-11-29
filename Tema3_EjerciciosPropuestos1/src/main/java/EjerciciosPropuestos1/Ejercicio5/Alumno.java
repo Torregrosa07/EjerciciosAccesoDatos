@@ -1,4 +1,4 @@
-package Ejercicio5;
+package EjerciciosPropuestos1.Ejercicio5;
 import jakarta.persistence.*;
 
 @Entity

@@ -1,4 +1,4 @@
-package Ejercicio4;
+package EjerciciosPropuestos1.Ejercicio4;
 
 import java.sql.SQLException;
 import java.util.List;
